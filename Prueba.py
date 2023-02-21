@@ -18,3 +18,4 @@ while True:
     if opcion ==2:
         print(" Aprobados: ",aprobados,"\n","Reprobados: ",reprobados,"\n","Nota Mayor: ",mayor,"\n","Nota menor: ",menor) 
         break
+        if while for else
